@@ -1,8 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="name-animation.svg" alt="Divy Kairoth" />
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" />
+<h1 align="center">Hi 👋, I'm Ayushmaan Ruhela</h1>
 
-<br/>
+<h3 align="center">
+  A Builder & Creator crafting web apps, tools, and open-source projects
+</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=7AA2F7&center=true&vCenter=true&width=440&lines=Building+software%2C+solving+problems.;Full+Stack+%7C+Web3+%7C+AI%2FML+%7C+Security;Open+to+collaboration+%E2%9C%93" alt="Typing SVG" />
 
