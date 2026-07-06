@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="name-animation.svg" alt="Ayushmaan Ruhela" />
+  <img src="ayushmaan_contribution_graph (1).svg" alt="Ayushmaan Ruhela" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Ayushmaan Ruhela</h1>
