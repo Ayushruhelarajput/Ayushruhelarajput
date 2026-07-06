@@ -8,8 +8,6 @@
   A Builder & Creator crafting web apps, tools, and open-source projects
 </h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1200&color=7AA2F7&center=true&vCenter=true&width=440&lines=Building+software%2C+solving+problems.;Full+Stack+%7C+Web3+%7C+AI%2FML+%7C+Security;Open+to+collaboration+%E2%9C%93" alt="Typing SVG" />
-
 </div>
 
 ---
